@@ -1,0 +1,23 @@
+<!DOC TYPE html>
+<html>
+<head>
+<meta charset="utf-8"
+<title>Anatomy of a css Rule<|title>
+<style>
+p{
+color:blue;
+font-size:20px;
+width:20px;
+}
+h1{
+color:green;
+font-size:36px;
+text align:centre;
+}
+<|style>
+<|head>
+<body>
+<h1>Anatomy  of a css Rules <|h1>
+<h2> sub heading 1 <|h2>
+<P>
+<p>css
